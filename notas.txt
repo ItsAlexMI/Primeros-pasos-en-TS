@@ -1,0 +1,5 @@
+1. Instalamos Node
+
+2. En CMD instalamos "npm install -g typescript"
+
+3. Para compilar el TS para pasarlo a JS usamos "tsc namefile.ts"
